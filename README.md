@@ -1,0 +1,2 @@
+# automatic-robot
+public initialize
